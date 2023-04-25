@@ -1,16 +1,27 @@
-### Hi there 👋
+Hey There
 
-<!--
-**Juan-Angel-Cepeda/Juan-Angel-Cepeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack
 
-Here are some ideas to get you started:
+- Python 
+- C++
+- JavaScript
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks
+
+- Angular
+- Nest
+
+## Data Bases
+
+- Oracle
+- MySQL
+- MongoDB
+
+## Contribuciones
+
+Si te interesa colaborar en alguno de mis proyectos o quieres hacer una sugerencia, no dudes en contactarme.
+
+## Contacto
+
+Reach me: jangelcepeda@protonmail.com
